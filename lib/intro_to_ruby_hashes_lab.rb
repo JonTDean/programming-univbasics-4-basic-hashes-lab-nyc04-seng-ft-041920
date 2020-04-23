@@ -3,11 +3,11 @@ def new_hash
 end
 
 def my_hash
-  hash = {key : "value"}
+  hash ={ key: "value"}
 end
 
 def pioneer
-  hash = {name : "hopper"}
+  hash = { name: "hopper"}
 end
 
 
